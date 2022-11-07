@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(201, 133, 133);
+    color: black;
+    
+}
+
+h1 {
+    color: rgb(86, 86, 163);
+    font-size: 50px;
+    text-align: center;
+    margin: 90px;
+}
+
+p {
+    color: rgb(73, 64, 66);
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    margin: 30px;
+}
+
+h2 {
+    background-color: rgb(161, 128, 135);
+    border-radius: 90px;
+    color: rgb(86, 86, 163);
+    text-align: center;
+    margin: 40px;
+    font-size: 35px;
+}
+
+marquee {
+    background-color: rgb(93, 51, 133);
+    color: pink;
+    font-size: 25px;
+}
+
+button {
+    background-color: rgb(116, 84, 146);
+    color: white;
+    border: 2px solid rgb(22, 16, 16);
+    font-size: 20px;
+    text-align: center;
+    border-radius: 25px;
+    margin: 0 auto;
+    display: block;
+    
+
+
+
+    
+}
+
+
+
+
+
